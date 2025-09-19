@@ -1,8 +1,8 @@
 # Hi, I'm Prabu Ponnan 👋
 
-**Cloud & DevOps Specialist | Platform Engineering Enthusiast | Identity & Access Management, Active Directory Specialist | Documentation Advocate**
+** Identity & Access Management, Active Directory Specialist | Documentation Advocate**
 
-Welcome to my GitHub profile! I’m passionate about building resilient cloud solutions on Azure, mastering the art of identity and access management—including deep expertise in Active Directory—and sharing knowledge through documentation and writing.
+Welcome to my GitHub profile! I’m passionate about building resilience, mastering the art of identity and access management—including deep expertise in Active Directory—and sharing knowledge through documentation and writing.
 
 ---
 
@@ -23,13 +23,12 @@ Welcome to my GitHub profile! I’m passionate about building resilient cloud so
 - [**books**](https://github.com/p-prabu/books): My personal book notes and reading lists  
 - [**ActiveDirectory**](https://github.com/p-prabu/ActiveDirectory): Resources and scripts for managing Active Directory  
 - [**profile**](https://github.com/p-prabu/profile): My public profile and GitHub presence  
-- [**GithubPrivate**](https://github.com/p-prabu/GithubPrivate): Experiments and private utilities (access-permitting)  
 
 ---
 
 ## 📝 Recent Publications & Writing
 
-I love sharing insights and practical guides—check out my [articles and blog posts](https://resume.prabuponnan.in/).
+I love sharing insights and practical guides—check out my [articles and blog posts](https://techblog.prabuponnan.in/).
 
 ---
 
