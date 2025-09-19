@@ -1,6 +1,6 @@
 # Hi, I'm Prabu Ponnan 👋
 
-** Identity & Access Management, Active Directory Specialist | Documentation Advocate**
+**Identity & Access Management, Active Directory Specialist | Documentation Advocate**
 
 Welcome to my GitHub profile! I’m passionate about building resilience, mastering the art of identity and access management—including deep expertise in Active Directory—and sharing knowledge through documentation and writing.
 
