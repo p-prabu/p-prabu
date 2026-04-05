@@ -17,15 +17,6 @@ Welcome to my GitHub profile! I’m passionate about building resilience, master
 
 ---
 
-## 🌟 Featured Projects
-
-- [**docs-zen**](https://github.com/p-prabu/docs-zen): Tools and templates for beautiful technical documentation  
-- [**books**](https://github.com/p-prabu/books): My personal book notes and reading lists  
-- [**ActiveDirectory**](https://github.com/p-prabu/ActiveDirectory): Resources and scripts for managing Active Directory  
-- [**profile**](https://github.com/p-prabu/profile): My public profile and GitHub presence  
-
----
-
 ## 📝 Recent Publications & Writing
 
 I love sharing insights and practical guides—check out my [articles and blog posts](https://techblog.prabuponnan.in/).
